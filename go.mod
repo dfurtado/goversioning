@@ -1,3 +1,3 @@
-module github.com/dfurtado/goversioning/v2
+module github.com/dfurtado/goversioning/v3
 
 go 1.17
